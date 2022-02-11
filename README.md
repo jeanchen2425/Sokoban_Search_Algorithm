@@ -1,7 +1,5 @@
 # Sokoban Search Algorithm
-```
-  This repository is comming in August 2021. 
-```
+
 Implemented various search algorithms with python to create working solvers for the puzzle game Sokoban.
 
 Sokoban can be played online at this link: https://www.sokobanonline.com/play 
